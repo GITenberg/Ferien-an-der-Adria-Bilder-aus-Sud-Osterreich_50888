@@ -1,4 +1,8 @@
 _repo: Ferien-an-der-Adria-Bilder-aus-Sud-Osterreich_50888
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50888-h/images/cover.jpg
 creator:
   author:
     agent_name: Heer, Jakob Christoph
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9514
     wikipedia: http://de.wikipedpa.org/wiki/Jakob_Christoph_Heer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50888#Ferien-an-der-Adria-Bilder-aus-Sud-Osterreich
 gutenberg_issued: '2016-01-10'
 gutenberg_type: Text
 identifiers:
